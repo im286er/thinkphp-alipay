@@ -1,0 +1,21 @@
+{
+    "name": "jiyongcheng/thinkphp-alipay",
+    "description": "this is alipay library for thinkphp",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aaron",
+            "email": "gallen83@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "Aaron\\Alipay\\": "src/Aaron/Alipay",
+          "Aaron\\Alipay\\Wap\\": "src/Aaron/Aliapy/Wap"
+        }
+    }
+}
