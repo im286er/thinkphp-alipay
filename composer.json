@@ -15,6 +15,7 @@
     "autoload": {
         "psr-4": {
           "Aaron\\Alipay\\": "src/Aaron/Alipay",
+          "Aaron\\Alipay\\Lib\\": "src/Aaron/Alipay/Lib",
           "Aaron\\Alipay\\Wap\\": "src/Aaron/Aliapy/Wap"
         }
     }
